@@ -1,0 +1,11 @@
+# ninja log v6
+2	190	7623157520698877	build.ninja	9309ec78c01e04e6
+6	258	7623150228106751	CMakeFiles/custom_print_test.dir/src/main.cpp.obj	13c1680aa69d0ca9
+1	262	7623150228066744	lib/custom_print/CMakeFiles/custom_print.dir/src/my_printf.cpp.obj	9eb2aeb34daae05c
+3	261	7623150228086752	lib/custom_print/CMakeFiles/custom_print.dir/src/my_print.cpp.obj	8c98d46dce43eb38
+262	323	7623150230678230	lib/custom_print/libcustom_print.a	f6b1201d8b279794
+323	423	7623150231282098	custom_print_test.exe	9a72d6fbdcb0fabf
+4	48	7623158796281173	CMakeFiles/custom_print_test.dir/src/main.cpp.obj	b6c03897a5a9abc1
+11	270	7623158796346455	CMakeFiles/custom_print_test.dir/src/example.cpp.obj	2914f569ad3d2fc2
+8	869	7623158796321093	CMakeFiles/custom_print_test.dir/src/measure_performance.cpp.obj	8e08bd0d7b536b1e
+869	995	7623158804930946	custom_print_test.exe	cf37e6b410492853

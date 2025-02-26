@@ -1,0 +1,5 @@
+# ninja log v6
+1	199	7623138435662827	build.ninja	957301a6f6e54b9d
+4	253	7623136603285362	CMakeFiles/custom_print.dir/my_print.cpp.obj	4ce1a61efd2e085d
+2	255	7623136603255392	CMakeFiles/custom_print.dir/my_printf.cpp.obj	eda836ae55d8b9f2
+256	309	7623136605795673	libcustom_print.a	315945eebab460c

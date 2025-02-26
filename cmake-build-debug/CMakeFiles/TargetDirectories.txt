@@ -1,0 +1,6 @@
+C:/Users/Roman/Desktop/custom_print_test/cmake-build-debug/CMakeFiles/custom_print_test.dir
+C:/Users/Roman/Desktop/custom_print_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Roman/Desktop/custom_print_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Roman/Desktop/custom_print_test/cmake-build-debug/lib/custom_print/CMakeFiles/custom_print.dir
+C:/Users/Roman/Desktop/custom_print_test/cmake-build-debug/lib/custom_print/CMakeFiles/edit_cache.dir
+C:/Users/Roman/Desktop/custom_print_test/cmake-build-debug/lib/custom_print/CMakeFiles/rebuild_cache.dir
