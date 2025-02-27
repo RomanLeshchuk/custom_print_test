@@ -1,5 +1,8 @@
 #pragma once
 
+#ifndef MY_PRINT_H
+#define MY_PRINT_H
+
 #include <iostream>
 #include <string_view>
 
@@ -46,3 +49,5 @@ void my_print(std::string_view str, T&& arg, U&&... args)
         break;
     }
 }
+
+#endif

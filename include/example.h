@@ -1,7 +1,7 @@
 #pragma once
 
-#ifndef EXAPLE_H
-#define EXAPLE_H
+#ifndef EXAMPLE_H
+#define EXAMPLE_H
 
 void myPrintExample();
 void myPrintfExample();

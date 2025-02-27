@@ -11,3 +11,10 @@
 869	995	7623158804930946	custom_print_test.exe	cf37e6b410492853
 2	55	7623165270808469	CMakeFiles/custom_print_test.dir/src/main.cpp.obj	b6c03897a5a9abc1
 55	189	7623165271331185	custom_print_test.exe	cf37e6b410492853
+11	56	7623851607897012	CMakeFiles/custom_print_test.dir/src/main.cpp.obj	b6c03897a5a9abc1
+3	287	7623851607816345	lib/custom_print/CMakeFiles/custom_print.dir/src/my_printf.cpp.obj	9eb2aeb34daae05c
+8	289	7623851607867014	lib/custom_print/CMakeFiles/custom_print.dir/src/my_print.cpp.obj	8c98d46dce43eb38
+16	301	7623851607951637	CMakeFiles/custom_print_test.dir/src/example.cpp.obj	2914f569ad3d2fc2
+289	358	7623851610677569	lib/custom_print/libcustom_print.a	f6b1201d8b279794
+14	976	7623851607927010	CMakeFiles/custom_print_test.dir/src/measure_performance.cpp.obj	8e08bd0d7b536b1e
+977	1129	7623851617557846	custom_print_test.exe	cf37e6b410492853
