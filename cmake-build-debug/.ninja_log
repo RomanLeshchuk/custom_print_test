@@ -9,3 +9,5 @@
 11	270	7623158796346455	CMakeFiles/custom_print_test.dir/src/example.cpp.obj	2914f569ad3d2fc2
 8	869	7623158796321093	CMakeFiles/custom_print_test.dir/src/measure_performance.cpp.obj	8e08bd0d7b536b1e
 869	995	7623158804930946	custom_print_test.exe	cf37e6b410492853
+2	55	7623165270808469	CMakeFiles/custom_print_test.dir/src/main.cpp.obj	b6c03897a5a9abc1
+55	189	7623165271331185	custom_print_test.exe	cf37e6b410492853
